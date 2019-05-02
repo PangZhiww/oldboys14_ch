@@ -67,21 +67,21 @@
 # f1.remove()
 
 
-# class Person:
+class Person:
 #     '''类体:两个部分:
 #         变量部分
 #         方法(函数)部分
 #     '''
-#     mind = "有思想"    # 变量, 静态变量, 静态字段
-#     animal = "高级动物"
-#     faith = "有信仰"
-#
-#     def work(self):
-#         print(self)
-#         print("人类都会工作...")
-#     def shop(self):
-#         print(self)
-#         print("人类都会消费...")
+    mind = "有思想"    # 变量, 静态变量, 静态字段
+    animal = "高级动物"
+    faith = "有信仰"
+
+    def work(self):
+        print(self)
+        print("人类都会工作...")
+    def shop(self):
+        print(self)
+        print("人类都会消费...")
 
 
 # 类名的江都
@@ -98,7 +98,7 @@
 # Person.money = '运用货币'   # 增
 # Person.mind = "无脑的123"  # 改
 # del Person.mind     # 删
-# print(Person.__dict__).
+# print(Person.__dict__)
 
 
 # 操作类中的方法 (工作中基本不用类名去操作)

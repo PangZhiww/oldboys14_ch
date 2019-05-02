@@ -1,0 +1,13 @@
+2019-04-17 14:06:23,899 08.logging模块.py[line:86] WARNING 警告 message
+2019-04-17 14:06:23,899 08.logging模块.py[line:87] ERROR error message
+2019-04-17 14:06:23,899 08.logging模块.py[line:88] CRITICAL critical message
+2019-04-17 14:06:42,219 08.logging模块.py[line:84] DEBUG debug message
+2019-04-17 14:06:42,219 08.logging模块.py[line:85] INFO info message
+2019-04-17 14:06:42,219 08.logging模块.py[line:86] WARNING 警告 message
+2019-04-17 14:06:42,219 08.logging模块.py[line:87] ERROR error message
+2019-04-17 14:06:42,219 08.logging模块.py[line:88] CRITICAL critical message
+2019-04-21 19:50:27,289 08.logging模块.py[line:84] DEBUG debug message
+2019-04-21 19:50:27,293 08.logging模块.py[line:85] INFO info message
+2019-04-21 19:50:27,294 08.logging模块.py[line:86] WARNING 警告 message
+2019-04-21 19:50:27,294 08.logging模块.py[line:87] ERROR error message
+2019-04-21 19:50:27,295 08.logging模块.py[line:88] CRITICAL critical message

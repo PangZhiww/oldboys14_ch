@@ -93,7 +93,7 @@ class Payment(metaclass=ABCMeta):  # 抽象类(接口类); 强制制定一个规
         pass    # 制定了一个规范
     # @abstractclassmethod
     # def func(self):
-    #     pass
+        pass
 
 class Alipay(Payment):
     def __init__(self, money):
@@ -116,7 +116,7 @@ class Wechatpay(Payment):
         self.money = money
 
     def pay(self):
-        print("使用微信支付了%s元" % self.money)
+        print("使用京东支付了%s元" % self.money)
 
 
 def pay(obj):

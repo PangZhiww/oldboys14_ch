@@ -21,14 +21,21 @@ a1 = A()
 # print(B._B__money)
 
 
-class Parent:
-    def __func(self):
-        print("in parent func")
-    def __init__(self):
-        self.__func()
+# class Parent:
+#     def __func(self):
+#         print("in parent func")
+#     def __init__(self):
+#         self.__func()
+#
+# class Son(Parent):
+#     def __func(self):
+#         print("in son func")
+#
+# son1 = Son()
 
-class Son(Parent):
-    def __func(self):
-        print("in son func")
+# a='hello'
+# print(list(a))#一个个分开的字符串
+# l1=list(str2tuple(a))
+# print(l1)#一整个字符串
 
-son1 = Son()
+# 面试题需要重新看视频    ******

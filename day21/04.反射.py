@@ -274,7 +274,7 @@
 
 #
 # l = ["a","b","c"]
-# for num,i in enumerate(l,1):
+# for num,i in enumerate(l,5):
 #     print(num,i)
 
 
@@ -349,15 +349,15 @@
 # print(a.name)
 
 
-class A:
-    def __init__(self,name):
-        self.name = name
-
-a = A("alex")
-
+# class A:
+#     def __init__(self,name):
+#         self.name = name
+#
+# a = A("alex")
+#
+# # print(a.__dict__)
+# # del a.name
+#
 # print(a.__dict__)
-# del a.name
-
-print(a.__dict__)
-delattr(a,"name")
-print(a.__dict__)
+# delattr(a,"name")
+# print(a.__dict__)
